@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Abhishekh27/DSA/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Abhishekh27/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Abhishekh27/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
