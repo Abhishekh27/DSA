@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/Abhishekh27/DSA/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
