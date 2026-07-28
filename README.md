@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhishekh27/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekh27/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Array
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekh27/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhishekh27/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekh27/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekh27/DSA/tree/master/0410-split-array-largest-sum) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekh27/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishekh27/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,9 +89,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhishekh27/DSA/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
