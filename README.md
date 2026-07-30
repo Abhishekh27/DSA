@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishekh27/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhishekh27/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhishekh27/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Abhishekh27/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Abhishekh27/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekh27/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Abhishekh27/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishekh27/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhishekh27/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
@@ -99,8 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishekh27/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abhishekh27/DSA/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekh27/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishekh27/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
