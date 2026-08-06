@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishekh27/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhishekh27/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhishekh27/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhishekh27/DSA/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhishekh27/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
