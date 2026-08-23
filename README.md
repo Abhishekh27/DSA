@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishekh27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekh27/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Abhishekh27/DSA/tree/master/0709-to-lower-case) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhishekh27/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishekh27/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishekh27/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhishekh27/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishekh27/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
