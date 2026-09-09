@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhishekh27/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abhishekh27/DSA/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/Abhishekh27/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Abhishekh27/DSA/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishekh27/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekh27/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
