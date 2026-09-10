@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishekh27/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhishekh27/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekh27/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Abhishekh27/DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Abhishekh27/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhishekh27/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekh27/DSA/tree/master/0344-reverse-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Abhishekh27/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekh27/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Abhishekh27/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekh27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhishekh27/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhishekh27/DSA/tree/master/0283-move-zeroes) |
