@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhishekh27/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abhishekh27/DSA/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Abhishekh27/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Abhishekh27/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Abhishekh27/DSA/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishekh27/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekh27/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhishekh27/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Abhishekh27/DSA/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
