@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhishekh27/DSA/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0707-design-linked-list) |
 ## Design
 |  |
