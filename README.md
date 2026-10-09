@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekh27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishekh27/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishekh27/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhishekh27/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishekh27/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhishekh27/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishekh27/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Abhishekh27/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
