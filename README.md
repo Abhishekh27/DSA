@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Abhishekh27/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Abhishekh27/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Abhishekh27/DSA/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishekh27/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishekh27/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Abhishekh27/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Abhishekh27/DSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhishekh27/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Abhishekh27/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Abhishekh27/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Abhishekh27/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
