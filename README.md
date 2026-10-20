@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekh27/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekh27/DSA/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekh27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishekh27/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Abhishekh27/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhishekh27/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 ## String Matching
 |  |
 | ------- |
