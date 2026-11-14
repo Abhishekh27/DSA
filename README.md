@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhishekh27/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Abhishekh27/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishekh27/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Abhishekh27/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekh27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishekh27/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Abhishekh27/DSA/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekh27/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekh27/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekh27/DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Abhishekh27/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekh27/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekh27/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Abhishekh27/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekh27/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abhishekh27/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhishekh27/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhishekh27/DSA/tree/master/0844-backspace-string-compare) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhishekh27/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Abhishekh27/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhishekh27/DSA/tree/master/0503-next-greater-element-ii) |
 ## String Matching
 |  |
